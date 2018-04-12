@@ -8,7 +8,12 @@ public class Circulo {
 		super();
 		this.radio = radio;
 	}
-	
-	
 
+	public int getRadio() {
+		return radio;
+	}
+
+	public void setRadio(int radio) {
+		this.radio = radio;
+	}
 }
